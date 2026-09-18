@@ -1,0 +1,7 @@
+virtual_env/
+.vscode/
+runs/
+dataset*/
+datasets/
+*.jpg
+*.png

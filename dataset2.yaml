@@ -1,0 +1,19 @@
+path: C:/Users/huyvu/Downloads/TNTGMT/dataset2
+
+train: train/images
+val: train/images
+
+names:
+  0: stop
+  1: no_entry
+  2: speed_limit_50
+  3: end_speed_limit_50
+  4: turn_right
+  5: turn_left_brown
+  6: turn_left_blue
+  7: straight
+  8: u_turn
+  9: parking
+  10: keyboard
+  11: monitor
+  12: camera_neon
